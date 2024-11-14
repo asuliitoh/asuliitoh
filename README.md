@@ -1,4 +1,4 @@
-#Sobre mi :)
+# Sobre mi :)
 - 👋 Estudiante de Tercer Año en Ingenieria Informática en la Universidad de Murcia.
 - 👀 Interesado sobretodo en el Desarrollo de Software.
 - 🌱 Java y C++ son los lenguajes que más domino.
