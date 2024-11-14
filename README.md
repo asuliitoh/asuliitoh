@@ -1,7 +1,7 @@
 # Sobre mi :)
 - 👋 Estudiante de Tercer Año en Ingenieria Informática en la Universidad de Murcia.
 - 👀 Interesado sobretodo en el Desarrollo de Software.
-- 🌱 Java y C++ son los lenguajes que más domino.
+- 🌱 Lenguajes que más domino: Java y C++
 - ⚡ Fun fact: Le he robado este README a un compañero de la carrera.
 
 <!---
